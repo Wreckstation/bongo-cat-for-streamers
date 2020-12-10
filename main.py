@@ -53,7 +53,7 @@ if __name__ == "__main__":
     DISPLAYSURF = pygame.display.set_mode((890,441))
     DISPLAYSURF.fill(CHROMA_BG)
     DISPLAYSURF.blit(bg.image, bg.rect)
-    pygame.display.set_caption("HSDJFSSKDHFKSJDHFKSJDHFJKKJKSJHF")
+    pygame.display.set_caption("")
 
     ctrlr = Controller()
 
