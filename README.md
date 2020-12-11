@@ -6,6 +6,7 @@
 ![screenshot](https://raw.githubusercontent.com/Wreckstation/bongo-cat-for-streamers/main/screenshot.png)
 bongo cat reads your inputs even when unfocused! This is meant for people who want to display what buttons they're pressing while playing a (>= 2 button) game. The background is green to aid in chromakeying.
 
+example of it in use [here](https://www.youtube.com/watch?v=Copzn4NsRng)
 # Setup
 bongo cat needs two installs to work properly: `pygame` and `keyboard`.
 
